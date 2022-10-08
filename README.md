@@ -25,7 +25,7 @@ To run this code you have to install these library first
 - Numpy
 -plotly
 
-After that just run the script.py file
+After that just run the test.py file
 
 ```console
 python test.py
